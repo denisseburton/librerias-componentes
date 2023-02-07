@@ -1,13 +1,13 @@
 import React from "react"
 import "./boton.css"
 interface ButtonProps {
-    legend?:string ;
+    legenda?:string ;
 }
 
 const Boton= (props:ButtonProps)=>{
-    const {legend} = props
+    const {legenda} = props
  return (
-    <button>{legend}</button>
+    <button>{legenda}</button>
  )
 }
 

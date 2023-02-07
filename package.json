@@ -3,7 +3,7 @@
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/denisseburton"
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "mi primer libreria",
   "scripts": {
     "rollup": "rollup -c"
